@@ -19,7 +19,7 @@ const Footer = () => {
             textAlign: "center",
           }}
         >
-          Developed by <span style={{ color: "red" }}>Amol Dalwai</span>
+          Created By <span style={{ color: "red" }}>Lim</span>
         </span>
       </div>
     </>
